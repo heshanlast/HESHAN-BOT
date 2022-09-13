@@ -13,10 +13,10 @@ global.APIKeys = {
 
 
 global.OWNER_REACT = '🧑🏻‍💻'
-global.REACT_NUMBER = '94774579505'
+global.REACT_NUMBER = '94714977724'
 
 //aumto functioner
-global.autoTyping = false //auto tying in gc (true to on, false to off)
+global.autoTyping = true //auto tying in gc (true to on, false to off)
 global.autoreadpmngc = false //auto reading in gc and pm (true to on, false to off)
 global.autoReadGc = false //auto reading in gc (true to on, false to off)
 global.autoRecord = false //auto recording (true to on, false to off)
@@ -41,16 +41,16 @@ global.socialm = "GitHub: Nero" //ur github or insta name
 global.location = "India, Mizoram, Aizawl" //ur location
 
 //bot bomdy 
-global.owner = ['774579505']
-global.ownertag = '774579505' //ur tag number
-global.botname = '✫ ✫ ✫𝙳𝙰𝚁𝙺 𝙽𝙴𝚁𝙾✫ ✫ ✫' //ur bot name
+global.owner = ['714977724']
+global.ownertag = '714977724' //ur tag number
+global.botname = '✫ ✫ ✫𝙷𝙴𝚂𝙷𝙰𝙽 𝙱𝙾𝚃✫ ✫ ✫' //ur bot name
 global.linkz = "https://github.com/Kaveeshasithum/DARK-NERO-BOT.git" //your theme url which will be displayed on whatsapp
 global.websitex = "https://github.com/Kaveeshasithum/DARK-NERO-BOT.git" //ur website to be displayed
 global.botscript = 'https://github.com/Kaveeshasithum/DARK-NERO-BOT.git' //script link
-global.reactmoji = "😘" //ur menu react emoji
-global.themeemoji = "🎸" //ur theme emoji
+global.reactmoji = "🔥" //ur menu react emoji
+global.themeemoji = "🔥" //ur theme emoji
 global.packname = "Nero Bot Stickers\n\n\n\n\n\n\n\n\n\n\n🦄🦄🦄 " //ur sticker watermark packname
-global.author = "Kaveesha sithum" //ur sticker watermark author
+global.author = "Heshan Silva" //ur sticker watermark author
 
 //Bot theme media
 global.thum = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
@@ -59,7 +59,7 @@ global.err4r = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur error pic
 global.thumb = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
 
 //damtabase
-global.premium = ['774579505'] //ur premium numbers
+global.premium = ['714977724'] //ur premium numbers
 global.ntilinkytvid = []
 global.ntilinkytch = []
 global.ntilinkig = []
